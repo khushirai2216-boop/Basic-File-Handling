@@ -3,7 +3,9 @@
 A Python CLI application for reading, modifying, and creating text files with robust error handling.
 Built as **Task 3** for **Saiket Systems Python Development Internship**.
 
----
+## 🎬 Live Demo
+
+![Live Demo](screenshots/1_demo.gif)
 
 ## 📸 Project Preview
 
@@ -34,7 +36,7 @@ Built as **Task 3** for **Saiket Systems Python Development Internship**.
 ✅ **File Information** - View file size and properties
 ✅ **Create Sample Files** - Demo file with pre-written content
 ✅ **Create Custom Files** - Create files with your own content
-✅ **Robust Error Handling** - Handles FileNotFoundError, PermissionError, IOError
+✅ **Robust Error Handling** - FileNotFoundError, PermissionError, IOError
 ✅ **User-Friendly Menu** - Interactive CLI interface
 
 ---
@@ -46,8 +48,8 @@ Built as **Task 3** for **Saiket Systems Python Development Internship**.
   - File I/O operations
   - Exception handling (try-except)
   - String manipulation
-  - Object-Oriented Programming (Classes)
-  - User input validation
+  - Object-Oriented Programming
+  - Input validation
 
 ---
 
@@ -67,77 +69,22 @@ python basic_file_handling.py
 ## 📖 How to Use
 
 ### **Option 1: Read File**
-- View the complete content of any file
-- Handles missing files gracefully
-
-**Screenshot:** See "Read File Operation" above
+View any file's content with error handling
 
 ### **Option 2: Find & Replace**
-- Find specific words in a file
-- Replace with new words
-- Save changes or discard
-
-**Screenshot:** See "Find & Replace Operation" above
+Search for words and replace them in your file
 
 ### **Option 3: File Information**
-- View filename
-- Check file size in bytes and KB
-- Verify if file exists
-
-**Screenshot:** See "File Information" above
+Check file size in bytes and KB
 
 ### **Option 4: Create Sample File**
-- Creates a demo file with Python-related content
-- Useful for testing features
-
-**Screenshot:** See "Create Sample File" above
+Generate a demo file with Python-related content for testing
 
 ### **Option 5: Create Custom File**
-- Create your own file with custom content
-- Line-by-line input
-- Type 'END' to finish
-
-**Screenshot:** See "Create Custom File" above
+Create your own file with custom content (line by line, type 'END' to finish)
 
 ### **Option 6: Exit**
-- Gracefully close the application
-
----
-
-## 🎯 Example Workflow
-FILE HANDLING APPLICATION
-
-Saiket Systems - Python Development Internship
-Enter filename: myfile.txt
-MENU OPTIONS
-
-Read file
-Find and replace word
-Display file information
-Create sample file (for testing)
-Create custom file
-Exit
-
-Choice: 5
-
-Enter file name: myfile.txt
-Enter file content:
-
-Line 1: Hello World
-
-Line 2: This is my file
-
-Line 3: END
-✓ File 'myfile.txt' created successfully!
-Choice: 2
-
-Find: Hello
-
-Replace with: Hi
-
-Save changes? (y/n): y
-
-✓ File updated successfully!
+Close the application gracefully
 
 ---
 
@@ -148,8 +95,8 @@ Save changes? (y/n): y
 | **File I/O** | `open()`, `read()`, `write()` with context managers |
 | **Exception Handling** | FileNotFoundError, PermissionError, IOError, Exception |
 | **String Methods** | `count()`, `replace()`, `strip()`, `upper()` |
-| **OOP** | FileHandler class with methods |
-| **Data Validation** | Input checks for empty content, missing words |
+| **OOP** | FileHandler class with multiple methods |
+| **Input Validation** | Checks for empty content and missing files |
 | **User Interaction** | Menu-driven interface with error messages |
 
 ---
@@ -187,7 +134,7 @@ basic_file_handling.py
 ✅ Object-Oriented Programming (classes and methods)
 ✅ Menu-driven application design
 ✅ Input validation and error management
-✅ User experience design (CLI)
+✅ User experience design for CLI applications
 
 ---
 
@@ -230,3 +177,5 @@ Built as **Task 3** of **Saiket Systems Python Development Internship**
 - [Task 2: Number Guessing Game](https://github.com/khushirai2216-boop/Number-Guessing-Game)
 
 ---
+
+Built with ❤️ | [GitHub Profile](https://github.com/khushirai2216-boop)
