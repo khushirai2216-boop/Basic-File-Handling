@@ -17,7 +17,7 @@ Built as **Task 3** for **Saiket Systems Python Development Internship**.
 ![Create Sample File](screenshots/3_sample_file_created.png)
 
 ### Find & Replace Operation
-![Find & Replace](screenshots/4_find_repla.png)
+![Find & Replace](screenshots/4_find_and_replace.png)
 
 ### File Information
 ![File Info](screenshots/5_file_info.png)
