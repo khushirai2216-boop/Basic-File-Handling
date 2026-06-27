@@ -177,5 +177,3 @@ Built as **Task 3** of **Saiket Systems Python Development Internship**
 - [Task 2: Number Guessing Game](https://github.com/khushirai2216-boop/Number-Guessing-Game)
 
 ---
-
-Built with ❤️ | [GitHub Profile](https://github.com/khushirai2216-boop)
