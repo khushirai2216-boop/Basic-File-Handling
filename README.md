@@ -10,22 +10,22 @@ Built as **Task 3** for **Saiket Systems Python Development Internship**.
 ## 📸 Project Preview
 
 ### Main Menu
-![Main Menu](screenshots/1_main_menu.png)
+![Main Menu](screenshots/2_main_menu.png)
 
 ### Read File Operation
-![Read File](screenshots/2_read_file.png)
+![Read File](screenshots/3_read_file.png)
 
 ### Create Sample File
-![Create Sample File](screenshots/3_sample_file_created.png)
+![Create Sample File](screenshots/4_sample_file_created.png)
 
 ### Find & Replace Operation
-![Find & Replace](screenshots/4_find_and_replace.png)
+![Find & Replace](screenshots/5_find_and_replace.png)
 
 ### File Information
-![File Info](screenshots/5_file_info.png)
+![File Info](screenshots/6_file_info.png)
 
 ### Create Custom File
-![Create Custom File](screenshots/6_custom_file.png)
+![Create Custom File](screenshots/7_custom_file.png)
 
 ---
 
